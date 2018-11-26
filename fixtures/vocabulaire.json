@@ -1,0 +1,22 @@
+[
+  {
+    "key": "abbaye",
+    "label": "Abbaye",
+    "video": "video/abbaye.webm"
+  },
+  {
+    "key": "assemblee_nationale",
+    "label": "Assemblée nationale",
+    "video": "video/assemblee_nationale.webm"
+  },
+  {
+    "key": "construction_navale",
+    "label": "Construction navale",
+    "video": "video/construction_navale.webm"
+  },
+  {
+    "key": "debit",
+    "label": "Débit",
+    "video": "video/debit_banque.webm"
+  }
+]
