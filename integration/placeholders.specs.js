@@ -1,9 +1,10 @@
 describe('Load application', function() {
-  it('display placeholder', function() {
-    cy.server({ delay: 500 });
+  it('displays placeholder before data are available', function() {
+    cy.server({ delay: 50 });
+    cy.route('**/vocabulaire.json', 'fixture:vocabulaire.json');
 
     cy.visit('/');
 
-    cy.get('[data-e2e="static-wordlist-placeholder"]').should('be.visible');
+    cy.get('[data-e2e="wordlist-placeholder-js"]').should('be.visible');
   });
 });
