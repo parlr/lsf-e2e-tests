@@ -1,0 +1,13 @@
+[
+  { "mot": "moi", "category": "substantifs" },
+  { "mot": "(un petit) peu", "category": "quantificateurs" },
+  { "mot": "bon", "category": "évaluateurs" },
+  { "mot": "grand, gros", "category": "descripteurs" },
+  { "mot": "penser", "category": "prédicats mentaux" },
+  { "mot": "longtemps", "category": "temps" },
+  { "mot": "ici", "category": "espace" },
+  { "mot": "ne pas (négation)", "category": "concepts logiques" },
+  { "mot": "parce que", "category": "concepts logiques" },
+  { "mot": "plus", "category": "intensificateur, augmentateur" },
+  { "mot": "comme", "category": "similarité" }
+]
